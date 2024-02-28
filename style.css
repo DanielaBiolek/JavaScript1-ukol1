@@ -1,0 +1,15 @@
+body {display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+}
+
+.tabulka {
+    grid-column: 2;
+    margin-top: 150px;
+    padding: 20px;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    background-color: palegoldenrod;
+    text-align: center;
+
+}
